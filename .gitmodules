@@ -1,0 +1,6 @@
+[submodule "GoogleDocsFrontend"]
+	path = GoogleDocsFrontend
+	url = https://github.com/anmolchhabra21/GoogleDocsFrontend.git
+[submodule "GoogleDocsBackend"]
+	path = GoogleDocsBackend
+	url = https://github.com/anmolchhabra21/GoogleDocsBackend.git
